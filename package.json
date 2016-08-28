@@ -1,0 +1,22 @@
+{
+  "name": "node-package-slogeor",
+  "version": "1.0.0",
+  "description": "node package teset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slogeor/node-package-slogeor.git"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "slogeor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slogeor/node-package-slogeor/issues"
+  },
+  "homepage": "https://github.com/slogeor/node-package-slogeor#readme"
+}
